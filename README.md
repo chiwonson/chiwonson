@@ -17,6 +17,8 @@ Start studying coding 24.03.04
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+# kosmo final project
+https://www.notion.so/5i-e141addddc0c4ef0916789a9d9b147ec?pvs=4
 
 #
 🏢 past career
