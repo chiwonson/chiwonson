@@ -18,7 +18,8 @@ Start studying coding 24.03.04
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #
-Current Learning Goals
+📫Current Learning Goals
+
 Backend Development   : Java Spring Boot 기술향상
 
 Database Management   : orcle, mysql 작업기술 습득
