@@ -20,7 +20,9 @@ Start studying coding 24.03.04
 #
 Current Learning Goals
 Backend Development   : Java Spring Boot 기술향상
+
 Database Management   : orcle, mysql 작업기술 습득
+
 Frontend Development  : JavaScript, HTML, CSS, jQuery 기술 향상
 
 # kosmo final project
