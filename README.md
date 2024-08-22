@@ -36,11 +36,11 @@ KOSMO 142기 풀스택 개발자 양성과정
 
 Backend Development   : Java Spring Boot 기술향상
 
-Database Management   : orcle, mysql mongodb 작업기술 습득
+Database Management   : <br>
+관계형 데이터베이스(RDBMS) orcle, mysql<br>
+비-관계형 데이터베이스 (NoSQL) mongodb 구분 및 작업기술 습득
 
 Frontend Development  : JavaScript, HTML, CSS, jQuery 기술 향상
-
-DataBase :  관계형 데이터베이스(RDBMS) 비-관계형 데이터베이스는 (NoSQL) 구분 및 학습
 
 Github   : 기본소양 갖추기 
 
