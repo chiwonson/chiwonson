@@ -6,7 +6,7 @@ KOSMO 142기 풀스택 개발자 양성과정
 포트폴리오 : https://sonchiwon.vercel.app 
 
 #
-📚배우고있는 기술스택📚
+📚학습한 기술스택📚
 
 언어<br>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
